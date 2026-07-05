@@ -117,20 +117,6 @@ A plataforma contempla:
 
 A proposta é construir uma aplicação inspirada em cenários reais de produção, aplicando conceitos de arquitetura, escalabilidade, resiliência e computação em nuvem.
 
----
-
-# 📈 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CaiqueLuci0&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueLuci0&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🎯 Objetivos
 
 - 🏗️ Evoluir continuamente em Arquitetura de Software
